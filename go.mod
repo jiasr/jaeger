@@ -44,7 +44,7 @@ require (
 	github.com/uber/jaeger-client-go v2.30.0+incompatible
 	github.com/uber/jaeger-lib v2.4.1+incompatible
 	github.com/xdg-go/scram v1.1.1
-	go.opentelemetry.io/collector/model v0.49.0
+	go.opentelemetry.io/collector/model v0.50.0
 	go.uber.org/atomic v1.9.0
 	go.uber.org/automaxprocs v1.5.1
 	go.uber.org/zap v1.21.0
@@ -55,7 +55,7 @@ require (
 	gopkg.in/yaml.v2 v2.4.0
 )
 
-require go.opentelemetry.io/collector/pdata v0.49.0
+require go.opentelemetry.io/collector/pdata v0.50.0
 
 require (
 	github.com/HdrHistogram/hdrhistogram-go v1.0.1 // indirect
